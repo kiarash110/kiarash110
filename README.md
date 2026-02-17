@@ -1,23 +1,22 @@
 # 👋 Hi, I'm Kiarash!
 
-I am a student developer with a deep interest in **Cybersecurity** and **Python programming**. I believe in learning by doing, which is why I build tools that focus on data privacy and protection.
+I am a student developer focused on **Cybersecurity** and **Secure Software Development**. I build tools that explore the intersection of data privacy, encryption, and web security.
 
 ---
 
-### 🛡️ What I'm working on
-* **[Aegis-1T](https://github.com/kiarash110/Aegis-1T):** My main project—a file vault designed to handle large-scale data (up to 1TB) using professional-grade encryption like **AES-256-GCM**.
-* **MFA Systems:** Learning how to implement 2FA/TOTP to keep user accounts safe.
+### 🛡️ Featured Project
+* **[Aegis-1T](https://github.com/kiarash110/Aegis-1T):** A high-performance file vault for large-scale data (1TB+) using **AES-256-GCM** encryption and **Argon2id** key derivation.
 
-### 🌱 What I'm currently learning
-* **Advanced Python:** Moving from basic scripts to high-performance, memory-efficient code.
-* **Cryptography:** Understanding the "Why" behind encryption algorithms like Argon2id.
-* **Open Source:** Learning how to document my work so it can help others.
+### 🌱 My Learning Roadmap
+* **Cybersecurity:** Studying network security, penetration testing basics, and cryptographic integrity.
+* **Web Security (HTML/CSS/JS):** Learning the "Big Three" to understand web vulnerabilities like XSS (Cross-Site Scripting) and CSRF (Cross-Site Request Forgery).
+* **Python:** Mastered basic automation; now focusing on memory-efficient security tools.
 
 ### 🛠️ My Toolbox
-* **Language:** Python
-* **Security:** MFA, Cryptography Libraries (PyCryptodome), Data Integrity
-* **Tools:** Git, GitHub, VS Code
+* **Languages:** Python, HTML5, CSS3, JavaScript (Learning)
+* **Security:** MFA/TOTP, Cryptography (PyCryptodome), Secure File Shredding
+* **Development:** Git, GitHub, Linux Command Line
 
 ---
 
-> "Stay humble, keep coding."
+> "To secure a system, you must first understand how it was built."
