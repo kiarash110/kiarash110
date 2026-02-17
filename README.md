@@ -1,22 +1,23 @@
 # 👋 Hi, I'm Kiarash!
 
-I am a student developer focused on **Cybersecurity** and **Secure Software Development**. I build tools that explore the intersection of data privacy, encryption, and web security.
+I am a student explorer in the world of **Cybersecurity** and **Web Development**. I am passionate about how things work under the hood and how to keep data safe in a digital world.
 
 ---
 
-### 🛡️ Featured Project
-* **[Aegis-1T](https://github.com/kiarash110/Aegis-1T):** A high-performance file vault for large-scale data (1TB+) using **AES-256-GCM** encryption and **Argon2id** key derivation.
+### 🛡️ Featured Project (AI-Assisted)
+* **[Aegis-1T](https://github.com/kiarash110/Aegis-1T):** A project I architected using **AI-assisted coding** to build a high-performance 1TB file vault. 
+  * Focus: Learning how **AES-256-GCM** and **MFA (2FA)** protect data in the real world.
 
-### 🌱 My Learning Roadmap
-* **Cybersecurity:** Studying network security, penetration testing basics, and cryptographic integrity.
-* **Web Security (HTML/CSS/JS):** Learning the "Big Three" to understand web vulnerabilities like XSS (Cross-Site Scripting) and CSRF (Cross-Site Request Forgery).
-* **Python:** Mastered basic automation; now focusing on memory-efficient security tools.
+### 🌱 Learning Journey
+* **Python:** Learning the basics by building tools with AI assistance to understand logic and structure.
+* **Web Foundations:** Currently diving into **HTML, CSS, and JavaScript** to understand how the web is built and how to secure it.
+* **Cybersecurity:** Studying the fundamentals of encryption and how to prevent common digital attacks.
 
-### 🛠️ My Toolbox
-* **Languages:** Python, HTML5, CSS3, JavaScript (Learning)
-* **Security:** MFA/TOTP, Cryptography (PyCryptodome), Secure File Shredding
-* **Development:** Git, GitHub, Linux Command Line
+### 🛠️ My Toolbox (Learning in Progress)
+* **Web:** HTML5, CSS3, JavaScript
+* **Security Concepts:** Multi-Factor Authentication (MFA), Encryption Basics, Data Privacy
+* **Tools:** AI Coding Assistants, Git, GitHub, VS Code
 
 ---
 
-> "To secure a system, you must first understand how it was built."
+> "Using the tools of today (AI) to learn the security of tomorrow."
