@@ -1,29 +1,23 @@
-# 🛡️ KIARASH | SECURITY & CRYPTOGRAPHY 
+# 👋 Hi, I'm Kiarash!
 
-> **Architect of Aegis-1T: High-Performance Data Security.**
-
----
-
-### **🔭 CURRENT PROJECTS**
-* **[Aegis-1T](https://github.com/kiarash110/Aegis-1T):** A terabyte-scale cryptographic vault utilizing **AES-256-GCM** and **Argon2id** with integrated TOTP multi-factor authentication.
-* **Security Auditing:** Researching memory-hard key derivation functions to prevent brute-force attacks.
-
-### **🛠️ TECHNICAL ARMORY**
-* **Languages:** Python 3.12+ (Security & Automation)
-* **Encryption:** AES-GCM, Argon2id, SHA-256
-* **Security:** MFA/TOTP, Secure Shredding, Digital Integrity Verification
-* **Tools:** Git, Dotenv, PyCryptodome
+I am a student developer with a deep interest in **Cybersecurity** and **Python programming**. I believe in learning by doing, which is why I build tools that focus on data privacy and protection.
 
 ---
 
-### **📊 GITHUB ANALYTICS**
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kiarash110&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiarash110&layout=compact&theme=tokyonight" />
-</p>
+### 🛡️ What I'm working on
+* **[Aegis-1T](https://github.com/kiarash110/Aegis-1T):** My main project—a file vault designed to handle large-scale data (up to 1TB) using professional-grade encryption like **AES-256-GCM**.
+* **MFA Systems:** Learning how to implement 2FA/TOTP to keep user accounts safe.
+
+### 🌱 What I'm currently learning
+* **Advanced Python:** Moving from basic scripts to high-performance, memory-efficient code.
+* **Cryptography:** Understanding the "Why" behind encryption algorithms like Argon2id.
+* **Open Source:** Learning how to document my work so it can help others.
+
+### 🛠️ My Toolbox
+* **Language:** Python
+* **Security:** MFA, Cryptography Libraries (PyCryptodome), Data Integrity
+* **Tools:** Git, GitHub, VS Code
 
 ---
 
-### **📫 REACH OUT**
-* **Focus:** Open for collaborations on Open-Source Security Tools.
-* **Motto:** *Encryption is not a crime; it's a responsibility.*
+> "Stay humble, keep coding."
