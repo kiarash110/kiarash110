@@ -16,11 +16,14 @@
 
 ---
 
-### **📊 GITHUB STATS**
-![Kiarash's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiarash110&show_icons=true&theme=tokyonight)
+### **📊 GITHUB ANALYTICS**
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kiarash110&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiarash110&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ### **📫 REACH OUT**
-* **GitHub:** You're already here! 
 * **Focus:** Open for collaborations on Open-Source Security Tools.
+* **Motto:** *Encryption is not a crime; it's a responsibility.*
