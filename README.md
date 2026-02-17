@@ -1,16 +1,26 @@
-## Hi there 👋
+# 🛡️ KIARASH | SECURITY & CRYPTOGRAPHY 
 
-<!--
-**kiarash110/kiarash110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **Architect of Aegis-1T: High-Performance Data Security.**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **🔭 CURRENT PROJECTS**
+* **[Aegis-1T](https://github.com/kiarash110/Aegis-1T):** A terabyte-scale cryptographic vault utilizing **AES-256-GCM** and **Argon2id** with integrated TOTP multi-factor authentication.
+* **Security Auditing:** Researching memory-hard key derivation functions to prevent brute-force attacks.
+
+### **🛠️ TECHNICAL ARMORY**
+* **Languages:** Python 3.12+ (Security & Automation)
+* **Encryption:** AES-GCM, Argon2id, SHA-256
+* **Security:** MFA/TOTP, Secure Shredding, Digital Integrity Verification
+* **Tools:** Git, Dotenv, PyCryptodome
+
+---
+
+### **📊 GITHUB STATS**
+![Kiarash's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiarash110&show_icons=true&theme=tokyonight)
+
+---
+
+### **📫 REACH OUT**
+* **GitHub:** You're already here! 
+* **Focus:** Open for collaborations on Open-Source Security Tools.
