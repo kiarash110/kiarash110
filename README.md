@@ -21,6 +21,6 @@ I am a student explorer in the world of **Cybersecurity** and **Web Development*
 ---
 ### 📫 Reach Out
 * **Professional Inquiries:** [Your New Professional Email Here]
-* **Focus:** Student currently exploring AI-assisted security development and web foundations. *
+* **Focus:** Student currently exploring AI-assisted security development and web foundations.
 ---
 > "Using the tools of today (AI) to learn the security of tomorrow."
