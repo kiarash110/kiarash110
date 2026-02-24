@@ -1,6 +1,17 @@
-# 💫 About Me:
-👋 Hello, I'm a Tech & Infrastructure Enthusiast<br>📖 My Journey<br>🔭 Current Focus: Learning the fundamentals of high-performance software and how it interacts with network infrastructure.<br><br>⚙️ Hardware & Tech: I have a deep fascination with hardware architecture and enjoy learning how to optimize systems for better efficiency.<br><br>🌐 Networking: I'm particularly interested in the world of connectivity—from the physics of fiber optics to high-speed data transmission.<br><br>🧠 Learning Path: A dedicated student of technology, constantly working to understand the layers between physical hardware and software logic.<br><br>🛠️ Areas I'm Exploring<br>⚡ Optimization: Studying how to better utilize CPU/GPU resources and storage throughput.<br><br>🛰️ Network Tech: Exploring fiber optic mechanics and the basics of low-latency routing.<br><br>🏎️ System Efficiency: Learning to refine configurations to get the most out of existing hardware.
+# 💫 About Me
 
+### 👋 Hello, I'm a Tech & Infrastructure Enthusiast
+
+#### 📖 My Journey
+* 🔭 **Current Focus:** Mastering the fundamentals of high-performance software and its synergy with network infrastructure.
+* ⚙️ **Hardware & Systems:** I have a deep fascination with hardware architecture and the pursuit of optimizing systems for peak efficiency.
+* 🌐 **Networking:** I am driven by the mechanics of connectivity—ranging from the physics of **fiber optics** to high-speed data transmission protocols.
+* 🧠 **Learning Path:** A dedicated student of technology, bridge-building between physical hardware constraints and software logic layers.
+
+#### 🛠️ Areas of Exploration
+* ⚡ **Optimization:** Researching resource allocation for CPU/GPU workloads and maximizing storage throughput.
+* 🛰️ **Network Engineering:** Studying the intricacies of fiber optic backbones and low-latency routing architectures.
+* 🏎️ **System Efficiency:** Refining configurations to extract maximum performance from existing hardware.
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kiarash.etemad.dev@gmail.com) 
